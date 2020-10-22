@@ -4,7 +4,6 @@ Meu ambiente de trabalho Sublime Text 3
 # KeyMap
 ```json
 [
-	/* DIRECTORY FILES: C:\Users\samuel\AppData\Roaming\Sublime Text 3\Packages\User */
 	{
 		"keys": ["ctrl+shift+o"], "command": "terminus_open", "args": {
 			"cwd": "${C:\\laragon\\www}"
