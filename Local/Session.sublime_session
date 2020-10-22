@@ -1,0 +1,1531 @@
+{
+	"folder_history":
+	[
+		"/C/laragon/www/websiga",
+		"/C/laragon/www/moto",
+		"/C/laragon/www/PROJETOS/onepages",
+		"/C/laragon/www/makalves",
+		"/C/xampp/htdocs/agenciamz"
+	],
+	"last_version": 3211,
+	"last_window_id": 83,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 675.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"php",
+						"PHP"
+					],
+					[
+						"ca",
+						"can\tblade-can"
+					],
+					[
+						"can",
+						"canany\tblade-canany"
+					],
+					[
+						"cna",
+						"can"
+					],
+					[
+						"Auth",
+						"Auth::user\tGet the currently authenticated user."
+					],
+					[
+						"fore",
+						"foreach〔keyword〕"
+					],
+					[
+						"asset",
+						"asset〔function〕"
+					],
+					[
+						"Db",
+						"DB::insert\tRun an insert statement against the database."
+					],
+					[
+						"A",
+						"Auth::user\tGet the currently authenticated user."
+					],
+					[
+						"if",
+						"if?\tvar = cond ? a:b"
+					],
+					[
+						"ge",
+						"get"
+					],
+					[
+						"kt-c",
+						"kt-container"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"data",
+						"dataTable"
+					],
+					[
+						"src",
+						"src\tAttr"
+					],
+					[
+						"assets",
+						"assets-site"
+					],
+					[
+						"stle",
+						"style\tAttr"
+					],
+					[
+						"tex",
+						"text-white"
+					],
+					[
+						"moto",
+						"motoqueiroId"
+					],
+					[
+						"primeiro",
+						"primeiro_acesso"
+					],
+					[
+						"reve",
+						"revendedorNome"
+					],
+					[
+						"revendedor",
+						"revendedor_id"
+					],
+					[
+						"motoqueiro",
+						"motoqueiroId"
+					],
+					[
+						"veri",
+						"verifySession"
+					],
+					[
+						"margin",
+						"margin-left\tproperty"
+					],
+					[
+						"per",
+						"permissoes_id"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"gr",
+						"group"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"motoq",
+						"motoqueiro"
+					],
+					[
+						"bairro",
+						"bairroId"
+					],
+					[
+						"criador_",
+						"criador_bairros"
+					],
+					[
+						"criador",
+						"criador_corridas"
+					],
+					[
+						"mo",
+						"motoqueiro_id"
+					],
+					[
+						"script",
+						"script\tTag"
+					],
+					[
+						"Script",
+						"script"
+					],
+					[
+						"onkey",
+						"onkeypress\tAttr"
+					],
+					[
+						"onke",
+						"onkeyup\tAttr"
+					],
+					[
+						"in",
+						"inline\tdisplay"
+					],
+					[
+						"permissa",
+						"permissao_id"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"bg",
+						"background-color\tproperty"
+					],
+					[
+						"bor",
+						"border-radius\tproperty"
+					],
+					[
+						"enviado",
+						"enviado_para"
+					],
+					[
+						"en",
+						"enviado_para"
+					],
+					[
+						"e",
+						"execute"
+					],
+					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"get",
+						"get_user"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"b",
+						"b\tTag"
+					],
+					[
+						"status",
+						"status_id"
+					],
+					[
+						"btn-",
+						"btn-success"
+					],
+					[
+						"but",
+						"button\tTag"
+					],
+					[
+						"select",
+						"selectWhere"
+					],
+					[
+						"btn",
+						"btn-light"
+					],
+					[
+						"for",
+						"form\tTag"
+					],
+					[
+						"else",
+						"elseif\telseif …"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"ba",
+						"background-size\tproperty"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"ma",
+						"margin-top\tproperty"
+					],
+					[
+						"mar",
+						"margin-bottom\tproperty"
+					],
+					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"kt-ali",
+						"kt-align-center"
+					],
+					[
+						"met",
+						"meta\tTag"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"nae",
+						"name_a"
+					],
+					[
+						"font-",
+						"font-weight\tproperty"
+					],
+					[
+						"blo",
+						"inline-block\tdisplay"
+					],
+					[
+						"backg",
+						"background-color\tproperty"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"name",
+						"name"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"comen",
+						"Snippet: comentario"
+					],
+					[
+						"find",
+						"PHPCompanion:Find Use"
+					],
+					[
+						"importa ",
+						"PHPCompanion:Import Namespace"
+					],
+					[
+						"name",
+						"PHPCompanion:Import Namespace"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"terminus: ope",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"terminus",
+						"Terminus: Close"
+					],
+					[
+						"ter",
+						"Terminal: Open in project folder"
+					],
+					[
+						"termina",
+						"Terminal: Open in project folder"
+					],
+					[
+						"request",
+						"Snippet: REQUEST['…']"
+					],
+					[
+						"file uplo",
+						"Snippet: Retrieve Uploaded File"
+					],
+					[
+						"Snippet: file u",
+						"Snippet: Retrieve Uploaded File"
+					],
+					[
+						"Snippet: new s",
+						"Snippet: Create new table"
+					],
+					[
+						"Snippet: ",
+						"Snippet: COOKIE['…']"
+					],
+					[
+						"print",
+						"Snippet: Retrieve an input item from the request."
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"reove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 81.0,
+				"history":
+				[
+					"ls",
+					"php artisan update",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/samuel/Desktop/Novo Documento de Texto.txt",
+				"/C/laragon/www/websiga/.gitignore",
+				"/C/laragon/www/websiga/app/Role.php",
+				"/C/laragon/www/websiga/config/database.php",
+				"/C/laragon/www/websiga/app/Permission.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/home.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/usuarios/show.blade.php",
+				"/C/laragon/www/websiga/app/Providers/AuthServiceProvider.php",
+				"/C/laragon/www/websiga/app/User.php",
+				"/C/laragon/www/laravel/utilitarios.txt",
+				"/C/laragon/www/websiga/database/seeds/RoleUserSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/PermissionRoleSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/PermissionSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/RoleSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/UserSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/DatabaseSeeder.php",
+				"/C/laragon/www/websiga/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/C/laragon/www/websiga/database/migrations/2020_10_21_165043_create_roles_table.php",
+				"/C/laragon/www/websiga/database/migrations/2020_10_21_165234_create_permissions_table.php",
+				"/C/laragon/www/websiga/routes/painel/admin/admin.php",
+				"/C/laragon/www/websiga/routes/web.php",
+				"/C/laragon/www/websiga/database/migrations/2019_08_19_000000_create_failed_jobs_table.php",
+				"/C/laragon/www/websiga/app/Http/Controllers/HomeController.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/Rules.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/RedirectIfAuthenticated.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/Authenticate.php",
+				"/C/laragon/www/websiga/app/Http/Requests/UserRequest.php",
+				"/C/laragon/www/websiga/database/factories/UserFactory.php",
+				"/C/laragon/www/websiga/app/Exceptions/Handler.php",
+				"/C/laragon/www/websiga/bootstrap/app.php",
+				"/C/laragon/www/websiga/app/Http/Kernel.php",
+				"/C/laragon/www/websiga/config/app.php",
+				"/C/laragon/www/websiga/config/datatables-buttons.php",
+				"/C/laragon/www/websiga/config/logging.php",
+				"/C/laragon/www/websiga/config/queue.php",
+				"/C/laragon/www/websiga/config/services.php",
+				"/C/laragon/www/websiga/config/session.php",
+				"/C/laragon/www/websiga/config/view.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/CheckRole.php",
+				"/C/laragon/www/websiga/app/Http/Requests/UserEditRequest.php",
+				"/C/laragon/www/websiga/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+				"/C/laragon/www/websiga/app/Http/Requests/ProfileUpdateRequest.php",
+				"/C/laragon/www/websiga/routes/api.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/menu/menu.blade.php",
+				"/C/laragon/www/websiga/app/Http/Controllers/Painel/Menu/PagesController.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/menu/menu.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/content.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/user.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin.blade.php",
+				"/C/laragon/www/websiga/routes/painel/painel.php",
+				"/C/laragon/www/websiga/routes/painel/admin.php",
+				"/C/laragon/www/websiga/resources/views/painel/revenda.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/master_header.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/master_footer.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/header-navigation.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/header-mobile.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/footer-content.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/painel.blade.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/Permission.php",
+				"/C/laragon/www/websiga/app/Rules/Admin.php",
+				"/C/laragon/www/websiga/vendor/spatie/laravel-menu/src/Menu.php",
+				"/C/laragon/www/websiga/config/image.php",
+				"/C/laragon/www/websiga/config/auth.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/CheckForMaintenanceMode.php",
+				"/C/Users/samuel/AppData/Local/Temp/Rar$DIa3340.1155/system.php",
+				"/C/laragon/www/moto/index.php",
+				"/C/laragon/www/moto/application/composer.json",
+				"/C/laragon/www/moto/application/src/Connect/Query.php",
+				"/C/laragon/www/moto/application/routes/web.php",
+				"/C/laragon/www/moto/application/system.php",
+				"/C/laragon/www/moto/.htaccess",
+				"/C/laragon/www/criador/index.php",
+				"/C/Users/samuel/AppData/Local/Temp/Rar$DIa3340.22421/index.php",
+				"/C/laragon/www/moto/application/functions/Connections.php",
+				"/C/laragon/www/criador/application/system.php",
+				"/C/laragon/www/moto/20-10-2020__11-25-36.sql",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/phpcbf/Default (Windows).sublime-keymap",
+				"/C/laragon/www/websiga/bootstrap/cache/config.php",
+				"/C/laragon/www/golo-laravel-1.1.6.1/golo_lara_package_1.1.6.1/sql_database_file/golo_listing_1.1.6.sql",
+				"/C/laragon/www/find.php",
+				"/C/laragon/www/meudivulgador/config/app.php",
+				"/C/laragon/www/meudivulgador/app/Http/Kernel.php",
+				"/C/laragon/www/meudivulgador/resources/views/frontend/home/home_02.blade.php",
+				"/C/laragon/www/meudivulgador/resources/views/frontend/home/home_01.blade.php",
+				"/C/laragon/www/meudivulgador/.env",
+				"/C/laragon/www/websiga/composer.json",
+				"/C/laragon/www/websiga/find.php",
+				"/C/laragon/www/websiga/app/Providers/RouteServiceProvider.php",
+				"/C/laragon/www/websiga/app/Providers/AppServiceProvider.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/GenerateMenus.php",
+				"/E/LUGUILAR/PRODUTOS/PAINEL SUSPENSO MIAMI/Novo Documento de Texto.txt",
+				"/E/LUGUILAR/PRODUTOS/painel suspenso brooklin (SUPREME)/Novo Documento de Texto.txt",
+				"/E/LUGUILAR/PRODUTOS/MESA DE JANTAR 04 CADEIRAS FLORA ( BERLIM)/Novo Documento de Texto.txt",
+				"/E/LUGUILAR/PRODUTOS/MESA DE JANTAR 06 CADEIRAS LUGUI ( IMPERATRIZ )/MESA DE JANTAR 06 CADEIRAS LUGUI.txt",
+				"/E/LUGUILAR/PRODUTOS/GUARDA ROUPA GIAN 8 PORTAS 6 GAVETAS( LIVERPOOL)/Novo Documento de Texto.txt",
+				"/C/Downloaded Web Sites/www.fatectatui.edu.br/site2/swiper.min.css",
+				"/C/Downloaded Web Sites/www.fatectatui.edu.br/site2/style.css",
+				"/C/laragon/www/websiga/config/datatables.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/usuarios/create.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/usuarios/edit.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/menu/usuarios/usuarios.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/usuarios/usuarios.blade.php",
+				"/C/laragon/www/websiga/config/filesystems.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/master_footer.blade.php",
+				"/C/Users/samuel/Desktop/resources/custom/apps/user/edit-user.html",
+				"/C/laragon/www/websiga/storage/app/.gitignore",
+				"/C/laragon/www/websiga/vendor/fzaninotto/faker/src/Faker/Provider/Image.php",
+				"/C/laragon/www/websiga/vendor/laravel/framework/src/Illuminate/Contracts/Session/Session.php",
+				"/C/laragon/www/websiga/vendor/laravel/framework/src/Illuminate/Mail/resources/views/html/message.blade.php",
+				"/C/laragon/www/websiga/public/assets-site/vendors/swiper/swiper.min.js",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/Terminality/README.md",
+				"/C/laragon/www/websiga/.env",
+				"/C/laragon/www/websiga/public/web.config",
+				"/C/laragon/www/websiga/package.json",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/codes/print_r.sublime-snippet",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/codes/comentario.sublime-snippet",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/comentario.sublime-macro",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/login/footer.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/login/login.blade.php",
+				"/C/laragon/www/websiga/app/Http/Controllers/Auth/LoginController.php",
+				"/C/laragon/www/websiga/app/Http/Controllers/UserController.php",
+				"/C/laragon/www/websiga/database/migrations/2020_10_10_220626_add_google_id_column.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+					"C:\\laragon\\www\\websiga"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gate",
+					"'admin'",
+					"editor",
+					"roles",
+					"editor",
+					"roles",
+					"Auth",
+					"auth",
+					"Auth",
+					"auth",
+					"@include",
+					", 'permission'",
+					"permission",
+					"Controller",
+					"view",
+					"Lavary\\Menu\\ServiceProvider",
+					"lavary",
+					"menu",
+					"GenerateMenus",
+					"menu",
+					"lava",
+					"lavar",
+					"Lavary",
+					"Laravy",
+					"Lara",
+					"Laravy",
+					"Menu",
+					"GenerateMenus"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 59.0
+			},
+			"output.Terminus":
+			{
+				"height": 193.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 47.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Image.blade.php",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Mail\\resources\\views\\html\\message.blade.php"
+					],
+					[
+						"web",
+						"C:\\laragon\\www\\websiga\\routes\\web.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 231.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 908.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"funct",
+						"function"
+					],
+					[
+						"php",
+						"phpinfo"
+					],
+					[
+						"func",
+						"xdebug_call_function"
+					],
+					[
+						"fu",
+						"function_exists"
+					],
+					[
+						"ph",
+						"phpinfo"
+					],
+					[
+						"ca",
+						"can\tblade-can"
+					],
+					[
+						"can",
+						"canany\tblade-canany"
+					],
+					[
+						"cna",
+						"can"
+					],
+					[
+						"Auth",
+						"Auth::user\tGet the currently authenticated user."
+					],
+					[
+						"fore",
+						"foreach〔keyword〕"
+					],
+					[
+						"asset",
+						"asset〔function〕"
+					],
+					[
+						"Db",
+						"DB::insert\tRun an insert statement against the database."
+					],
+					[
+						"A",
+						"Auth::user\tGet the currently authenticated user."
+					],
+					[
+						"if",
+						"if?\tvar = cond ? a:b"
+					],
+					[
+						"ge",
+						"get"
+					],
+					[
+						"kt-c",
+						"kt-container"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"data",
+						"dataTable"
+					],
+					[
+						"src",
+						"src\tAttr"
+					],
+					[
+						"assets",
+						"assets-site"
+					],
+					[
+						"stle",
+						"style\tAttr"
+					],
+					[
+						"tex",
+						"text-white"
+					],
+					[
+						"moto",
+						"motoqueiroId"
+					],
+					[
+						"primeiro",
+						"primeiro_acesso"
+					],
+					[
+						"reve",
+						"revendedorNome"
+					],
+					[
+						"revendedor",
+						"revendedor_id"
+					],
+					[
+						"motoqueiro",
+						"motoqueiroId"
+					],
+					[
+						"veri",
+						"verifySession"
+					],
+					[
+						"margin",
+						"margin-left\tproperty"
+					],
+					[
+						"per",
+						"permissoes_id"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"gr",
+						"group"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"motoq",
+						"motoqueiro"
+					],
+					[
+						"bairro",
+						"bairroId"
+					],
+					[
+						"criador_",
+						"criador_bairros"
+					],
+					[
+						"criador",
+						"criador_corridas"
+					],
+					[
+						"mo",
+						"motoqueiro_id"
+					],
+					[
+						"script",
+						"script\tTag"
+					],
+					[
+						"Script",
+						"script"
+					],
+					[
+						"onkey",
+						"onkeypress\tAttr"
+					],
+					[
+						"onke",
+						"onkeyup\tAttr"
+					],
+					[
+						"in",
+						"inline\tdisplay"
+					],
+					[
+						"permissa",
+						"permissao_id"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"bg",
+						"background-color\tproperty"
+					],
+					[
+						"bor",
+						"border-radius\tproperty"
+					],
+					[
+						"enviado",
+						"enviado_para"
+					],
+					[
+						"en",
+						"enviado_para"
+					],
+					[
+						"e",
+						"execute"
+					],
+					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"get",
+						"get_user"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"b",
+						"b\tTag"
+					],
+					[
+						"status",
+						"status_id"
+					],
+					[
+						"btn-",
+						"btn-success"
+					],
+					[
+						"but",
+						"button\tTag"
+					],
+					[
+						"select",
+						"selectWhere"
+					],
+					[
+						"btn",
+						"btn-light"
+					],
+					[
+						"for",
+						"form\tTag"
+					],
+					[
+						"else",
+						"elseif\telseif …"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"ba",
+						"background-size\tproperty"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"ma",
+						"margin-top\tproperty"
+					],
+					[
+						"mar",
+						"margin-bottom\tproperty"
+					],
+					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"kt-ali",
+						"kt-align-center"
+					],
+					[
+						"met",
+						"meta\tTag"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"nae",
+						"name_a"
+					],
+					[
+						"font-",
+						"font-weight\tproperty"
+					],
+					[
+						"blo",
+						"inline-block\tdisplay"
+					],
+					[
+						"backg",
+						"background-color\tproperty"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"name",
+						"name"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"comen",
+						"Snippet: comentario"
+					],
+					[
+						"find",
+						"PHPCompanion:Find Use"
+					],
+					[
+						"importa ",
+						"PHPCompanion:Import Namespace"
+					],
+					[
+						"name",
+						"PHPCompanion:Import Namespace"
+					],
+					[
+						"terminus: ope",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"terminus",
+						"Terminus: Close"
+					],
+					[
+						"ter",
+						"Terminal: Open in project folder"
+					],
+					[
+						"termina",
+						"Terminal: Open in project folder"
+					],
+					[
+						"request",
+						"Snippet: REQUEST['…']"
+					],
+					[
+						"file uplo",
+						"Snippet: Retrieve Uploaded File"
+					],
+					[
+						"Snippet: file u",
+						"Snippet: Retrieve Uploaded File"
+					],
+					[
+						"Snippet: new s",
+						"Snippet: Create new table"
+					],
+					[
+						"Snippet: ",
+						"Snippet: COOKIE['…']"
+					],
+					[
+						"print",
+						"Snippet: Retrieve an input item from the request."
+					],
+					[
+						"reove",
+						"Package Control: Remove Package"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 81.0,
+				"history":
+				[
+					"ls",
+					"php artisan update",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/laragon/www/websiga",
+				"/C/laragon/www/websiga/routes"
+			],
+			"file_history":
+			[
+				"/C/laragon/www/websiga/.gitignore",
+				"/C/laragon/www/sublime/index.php",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/php.sublime-snippet",
+				"/C/Users/samuel/Desktop/Novo Documento de Texto.txt",
+				"/C/laragon/www/websiga/app/Role.php",
+				"/C/laragon/www/websiga/config/database.php",
+				"/C/laragon/www/websiga/app/Permission.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/home.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/usuarios/show.blade.php",
+				"/C/laragon/www/websiga/app/Providers/AuthServiceProvider.php",
+				"/C/laragon/www/websiga/app/User.php",
+				"/C/laragon/www/laravel/utilitarios.txt",
+				"/C/laragon/www/websiga/database/seeds/RoleUserSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/PermissionRoleSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/PermissionSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/RoleSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/UserSeeder.php",
+				"/C/laragon/www/websiga/database/seeds/DatabaseSeeder.php",
+				"/C/laragon/www/websiga/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/C/laragon/www/websiga/database/migrations/2020_10_21_165043_create_roles_table.php",
+				"/C/laragon/www/websiga/database/migrations/2020_10_21_165234_create_permissions_table.php",
+				"/C/laragon/www/websiga/routes/painel/admin/admin.php",
+				"/C/laragon/www/websiga/routes/web.php",
+				"/C/laragon/www/websiga/database/migrations/2019_08_19_000000_create_failed_jobs_table.php",
+				"/C/laragon/www/websiga/app/Http/Controllers/HomeController.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/Rules.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/RedirectIfAuthenticated.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/Authenticate.php",
+				"/C/laragon/www/websiga/app/Http/Requests/UserRequest.php",
+				"/C/laragon/www/websiga/database/factories/UserFactory.php",
+				"/C/laragon/www/websiga/app/Exceptions/Handler.php",
+				"/C/laragon/www/websiga/bootstrap/app.php",
+				"/C/laragon/www/websiga/app/Http/Kernel.php",
+				"/C/laragon/www/websiga/config/app.php",
+				"/C/laragon/www/websiga/config/datatables-buttons.php",
+				"/C/laragon/www/websiga/config/logging.php",
+				"/C/laragon/www/websiga/config/queue.php",
+				"/C/laragon/www/websiga/config/services.php",
+				"/C/laragon/www/websiga/config/session.php",
+				"/C/laragon/www/websiga/config/view.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/CheckRole.php",
+				"/C/laragon/www/websiga/app/Http/Requests/UserEditRequest.php",
+				"/C/laragon/www/websiga/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+				"/C/laragon/www/websiga/app/Http/Requests/ProfileUpdateRequest.php",
+				"/C/laragon/www/websiga/routes/api.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/menu/menu.blade.php",
+				"/C/laragon/www/websiga/app/Http/Controllers/Painel/Menu/PagesController.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/menu/menu.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/content.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/user.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin.blade.php",
+				"/C/laragon/www/websiga/routes/painel/painel.php",
+				"/C/laragon/www/websiga/routes/painel/admin.php",
+				"/C/laragon/www/websiga/resources/views/painel/revenda.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/master_header.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/master_footer.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/header-navigation.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/header-mobile.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/admin/footer-content.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/painel.blade.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/Permission.php",
+				"/C/laragon/www/websiga/app/Rules/Admin.php",
+				"/C/laragon/www/websiga/vendor/spatie/laravel-menu/src/Menu.php",
+				"/C/laragon/www/websiga/config/image.php",
+				"/C/laragon/www/websiga/config/auth.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/CheckForMaintenanceMode.php",
+				"/C/Users/samuel/AppData/Local/Temp/Rar$DIa3340.1155/system.php",
+				"/C/laragon/www/moto/index.php",
+				"/C/laragon/www/moto/application/composer.json",
+				"/C/laragon/www/moto/application/src/Connect/Query.php",
+				"/C/laragon/www/moto/application/routes/web.php",
+				"/C/laragon/www/moto/application/system.php",
+				"/C/laragon/www/moto/.htaccess",
+				"/C/laragon/www/criador/index.php",
+				"/C/Users/samuel/AppData/Local/Temp/Rar$DIa3340.22421/index.php",
+				"/C/laragon/www/moto/application/functions/Connections.php",
+				"/C/laragon/www/criador/application/system.php",
+				"/C/laragon/www/moto/20-10-2020__11-25-36.sql",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/phpcbf/Default (Windows).sublime-keymap",
+				"/C/laragon/www/websiga/bootstrap/cache/config.php",
+				"/C/laragon/www/golo-laravel-1.1.6.1/golo_lara_package_1.1.6.1/sql_database_file/golo_listing_1.1.6.sql",
+				"/C/laragon/www/find.php",
+				"/C/laragon/www/meudivulgador/config/app.php",
+				"/C/laragon/www/meudivulgador/app/Http/Kernel.php",
+				"/C/laragon/www/meudivulgador/resources/views/frontend/home/home_02.blade.php",
+				"/C/laragon/www/meudivulgador/resources/views/frontend/home/home_01.blade.php",
+				"/C/laragon/www/meudivulgador/.env",
+				"/C/laragon/www/websiga/composer.json",
+				"/C/laragon/www/websiga/find.php",
+				"/C/laragon/www/websiga/app/Providers/RouteServiceProvider.php",
+				"/C/laragon/www/websiga/app/Providers/AppServiceProvider.php",
+				"/C/laragon/www/websiga/app/Http/Middleware/GenerateMenus.php",
+				"/E/LUGUILAR/PRODUTOS/PAINEL SUSPENSO MIAMI/Novo Documento de Texto.txt",
+				"/E/LUGUILAR/PRODUTOS/painel suspenso brooklin (SUPREME)/Novo Documento de Texto.txt",
+				"/E/LUGUILAR/PRODUTOS/MESA DE JANTAR 04 CADEIRAS FLORA ( BERLIM)/Novo Documento de Texto.txt",
+				"/E/LUGUILAR/PRODUTOS/MESA DE JANTAR 06 CADEIRAS LUGUI ( IMPERATRIZ )/MESA DE JANTAR 06 CADEIRAS LUGUI.txt",
+				"/E/LUGUILAR/PRODUTOS/GUARDA ROUPA GIAN 8 PORTAS 6 GAVETAS( LIVERPOOL)/Novo Documento de Texto.txt",
+				"/C/Downloaded Web Sites/www.fatectatui.edu.br/site2/swiper.min.css",
+				"/C/Downloaded Web Sites/www.fatectatui.edu.br/site2/style.css",
+				"/C/laragon/www/websiga/config/datatables.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/usuarios/create.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/usuarios/edit.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/menu/usuarios/usuarios.blade.php",
+				"/C/laragon/www/websiga/resources/views/painel/admin/usuarios/usuarios.blade.php",
+				"/C/laragon/www/websiga/config/filesystems.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/painel/master_footer.blade.php",
+				"/C/Users/samuel/Desktop/resources/custom/apps/user/edit-user.html",
+				"/C/laragon/www/websiga/storage/app/.gitignore",
+				"/C/laragon/www/websiga/vendor/fzaninotto/faker/src/Faker/Provider/Image.php",
+				"/C/laragon/www/websiga/vendor/laravel/framework/src/Illuminate/Contracts/Session/Session.php",
+				"/C/laragon/www/websiga/vendor/laravel/framework/src/Illuminate/Mail/resources/views/html/message.blade.php",
+				"/C/laragon/www/websiga/public/assets-site/vendors/swiper/swiper.min.js",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/Terminality/README.md",
+				"/C/laragon/www/websiga/.env",
+				"/C/laragon/www/websiga/public/web.config",
+				"/C/laragon/www/websiga/package.json",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/codes/print_r.sublime-snippet",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/codes/comentario.sublime-snippet",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/comentario.sublime-macro",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/login/footer.blade.php",
+				"/C/laragon/www/websiga/resources/views/layouts/painel/login/login.blade.php",
+				"/C/laragon/www/websiga/app/Http/Controllers/Auth/LoginController.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+					"C:\\laragon\\www\\websiga"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gate",
+					"'admin'",
+					"editor",
+					"roles",
+					"editor",
+					"roles",
+					"Auth",
+					"auth",
+					"Auth",
+					"auth",
+					"@include",
+					", 'permission'",
+					"permission",
+					"Controller",
+					"view",
+					"Lavary\\Menu\\ServiceProvider",
+					"lavary",
+					"menu",
+					"GenerateMenus",
+					"menu",
+					"lava",
+					"lavar",
+					"Lavary",
+					"Laravy",
+					"Lara",
+					"Laravy",
+					"Menu",
+					"GenerateMenus"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\laragon\\www\\websiga"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 59.0
+			},
+			"output.Terminus":
+			{
+				"height": 193.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 47.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,821,264,87,1188",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Image.blade.php",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Mail\\resources\\views\\html\\message.blade.php"
+					],
+					[
+						"web",
+						"C:\\laragon\\www\\websiga\\routes\\web.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 231.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 83,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

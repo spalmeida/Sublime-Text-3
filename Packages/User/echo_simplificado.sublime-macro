@@ -1,0 +1,39 @@
+[
+	{
+		"args":
+		{
+			"characters": "<>"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "??"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "="
+		},
+		"command": "insert"
+	}
+]

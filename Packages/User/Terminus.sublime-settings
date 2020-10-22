@@ -1,0 +1,11 @@
+[
+	{
+    // the default config, either a single config name or a platform
+    // specific dict
+    "default_config": {
+        "linux": null,    // login shell
+        "osx": null,      // login shell
+        "windows": "Command Prompt"
+    },
+},   
+]

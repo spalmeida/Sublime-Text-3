@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Additional PHP Snippets",
+		"AutoFileName",
+		"Blade Snippets",
+		"Comments Aware Enter",
+		"CompletePHP",
+		"Dracula Color Scheme",
+		"Emmet",
+		"FileIcons Mono",
+		"Guna",
+		"LanguagePortuguese",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade AutoComplete",
+		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
+		"Laravel Forms Bootstrap Snippets",
+		"Package Control",
+		"PHP Companion",
+		"PHP Snippets",
+		"PHPSnippets",
+		"PHPUnit Completions",
+		"PHPUnit Snippets",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SVG Icons",
+		"Terminus",
+		"Theme - Afterglow",
+		"Theme - Arc",
+		"Theme - Dark Material",
+		"TrailingSpaces"
+	]
+}

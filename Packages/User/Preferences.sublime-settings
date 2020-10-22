@@ -1,0 +1,32 @@
+{
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"dictionary": "Packages/LanguagePortuguese/Portuguese (Brazilian).dic",
+	"font_face": "Inconsolata",
+	"font_size": 15,
+	"gn_hide_tab_dropdown": true,
+	"gn_overlay_scroll_bars": true,
+	"gn_sidebar_box": true,
+	"gn_title_bar": true,
+	"gnc_h13": true,
+	"gnc_m03": true,
+	"gnc_w3m10": true,
+	"gnwidg1": true,
+	"ignored_packages":
+	[
+		"Emmet",
+		"Extract Text to Laravel Blade View",
+		"jQuery",
+		"Laravel 4 Facades",
+		"Laravel 5 Artisan",
+		"Laravel Migrations Snippets",
+		"Legal Document Creator",
+		"LinkOpener",
+		"PHP Getters and Setters",
+		"PhpDoc",
+		"ReIndent",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Vintage"
+	],
+	"theme": "Guna.sublime-theme"
+}
