@@ -11,44 +11,19 @@ Meu ambiente de trabalho Sublime Text 3
 		}
 	},
 
-	/*
-	|--------------------------------------------------------------------------
-	| INDENTAÇÃO AUTOMATICA
-	|--------------------------------------------------------------------------
-	*/
+
 	
 	{	"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}},
 	
-	/*
-	|--------------------------------------------------------------------------
-	| ECHO SIMPLIFICADO
-	|--------------------------------------------------------------------------
-	*/
 
 	{ 	"keys": ["ctrl+alt+e"],  "command": "run_macro_file", "args": {"file": "Packages/User/echo_simplificado.sublime-macro"} },
 	
-	/*
-	|--------------------------------------------------------------------------
-	| ASSETS LARAVEL
-	|--------------------------------------------------------------------------
-	*/
 
 	{ 	"keys": ["ctrl+m"],  "command": "run_macro_file", "args": {"file": "Packages/User/assets.sublime-macro"} },
 	
-	/*
-	|--------------------------------------------------------------------------
-	| COMENTARIO
-	|--------------------------------------------------------------------------
-	*/
 	{ 	"keys": ["ctrl+shift+m"], "command": "insert_snippet", "args": 
 		{ "name": "Packages/User/codes/comentario.sublime-snippet" } 
 	},
-	
-	/*
-	|--------------------------------------------------------------------------
-	| PRINT_R
-	|--------------------------------------------------------------------------
-	*/
 
 	{ "keys": ["shift+escape"], "command": "show_panel", "args": {"panel": "output.Terminus Build Results"},
 	"context": [
